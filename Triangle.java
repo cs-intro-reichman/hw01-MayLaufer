@@ -17,7 +17,7 @@ public class Triangle {
 			isTriangle = false;
 		}
 		
-		System.out.println("Is it triangle? " + isTriangle);
+		System.out.println(length1 + ", " + length2 + ", " + length3 + ": " + isTriangle);
 				
 	}
 }
